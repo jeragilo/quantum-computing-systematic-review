@@ -1,0 +1,9 @@
+domain,expected_total,observed_total,annual_series_match
+QC01,324,324,TRUE
+QC02,97,97,TRUE
+QC03,90,90,TRUE
+QC04,18,18,TRUE
+QC05,84,84,TRUE
+QC06,266,266,TRUE
+QC07,211,211,TRUE
+QC08,82,82,TRUE
